@@ -22,8 +22,10 @@ Install dependency:
 
 ```bash
 pip install extract-msg
+```
 
 ## Usage
 ```bash
 python3 msgtoeml.py input.msg output.eml
+```
 
